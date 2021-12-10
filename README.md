@@ -2,7 +2,7 @@
 
 *A fast, handy and easy way to spilt bills and calculate tips applied on the bill.*
 
-## Example Input
+# Example Input
 
 ```
 Welcome to the tip calculator!
